@@ -1,0 +1,28 @@
+{
+  "name": "pageslider-react",
+  "version": "0.0.1",
+  "homepage": "https://github.com/yagudaev/pageslider-react",
+  "authors": [
+    "Michael Yagudaev <michael@yagudaev.com>",
+    "Christophe Coenraets <ccoenraets@gmail.com>"
+  ],
+  "description": "\"Micro page slider library for react\"",
+  "main": [
+    "js/pageslider-react.js",
+    "css/pageslider.css"
+  ],
+  "keywords": [
+    "react",
+    "pageslider",
+    "transitions",
+    "animation"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

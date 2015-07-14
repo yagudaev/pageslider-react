@@ -56,9 +56,9 @@ var PageSlider = {
     },
     render: function () {
         return (
-            <div className="pageslider-container">
-                {this.state.pages}
-            </div>
+            React.createElement("div", {className: "pageslider-container"},
+                this.state.pages
+            )
         );
     }
 };
